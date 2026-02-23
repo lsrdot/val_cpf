@@ -1,4 +1,4 @@
-# Script to generate and/or validate a brazilian CPF ID. digits
+# Script to generate and/or validate Brazilian CPF digits
 
 ## Running the script on Linux
 
