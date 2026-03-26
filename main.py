@@ -37,7 +37,7 @@ def validate_cpf() -> None:
     )
 
     if not cpf.isdigit() or len(cpf) != 11 or cpf == cpf[0] * 11:
-        print("The provided input isnt valid!\n")
+        print("The provided input isn't valid!\n")
         return
 
     sum = 0
